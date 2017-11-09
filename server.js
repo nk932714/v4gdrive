@@ -115,7 +115,7 @@ app.get('/login', (req, res) => {
 });
 
 // Accept authorisation code from Google
-app.get('/login-callback', (req, res) => {
+app.get('/oauth2callback', (req, res) => {
     unlessLoggedIn(req, res, () => {
         // Redirect to home page and display error message if authentication failure
         if ('error' in req.query) {
