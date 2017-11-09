@@ -20,3 +20,6 @@ Note:- enter your redirect url
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 Full steps: Comming soon
+
+
+NOTE:- **Not working currently i will fix that soon**
