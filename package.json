@@ -1,13 +1,13 @@
 {
-  "name": "google-drive-torrent",
+  "name": "google-drive-manager",
   "version": "1.0.0",
-  "description": "Downloads torrent files to google drive",
+  "description": "Downloads and manage drive files of google drive",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Karl Chan",
+  "author": "nk932714",
   "license": "UNLICENSED",
   "dependencies": {
     "async": "^2.1.5",
