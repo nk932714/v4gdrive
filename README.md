@@ -1,6 +1,6 @@
-# google-drive-torrent
+# google-drive-explorer
 
-Download torrents to your Google Drive directly
+Download url to your Google Drive directly
 
 ## Installation
 
