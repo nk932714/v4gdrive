@@ -10,3 +10,13 @@ Download torrents to your Google Drive directly
    * You may also need to set the environmental variable `DRIVE_REDIRECT_URI` to be `[insert your host origin here]/login-callback` if you are running the project on a remote server.
 
 2. Run `npm start`. Enjoy!
+
+
+
+
+Heroku install 
+Note:- enter your redirect url
+
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
+Full steps: Comming soon
