@@ -4,13 +4,9 @@ Download url to your Google Drive directly
 
 ## Installation
 
-1. Register this project as a client on the <a href="http://console.developers.google.com>Google API Console </a>
-   Replace the fields in `data/driveCredentials.json` with your registered `clientId` and `clientSecret`.  
+1. Register this project as a client on the [![Google API Console](https://i.imgur.com/E71Apyx.png)](http://console.developers.google.com) 
 
 2. Run `npm start`. Enjoy!
-
-
-
 
 Heroku install 
 Note:- enter your redirect url
