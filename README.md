@@ -17,5 +17,3 @@ Full steps: Comming soon
 
 
 NOTE:- **Not working currently i will fix that soon**
-
-Credits:Karl Chan
